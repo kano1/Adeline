@@ -1,6 +1,20 @@
 [Adblock Plus 2.0]
 ! Title: Garuda Suspicious Spam BL
-
+@@||fonts.googleapis.com
+@@||www.youtube.com
+@@||apis.google.com/
+@@||www.googleapis.com
+@@||2mdn.net
+@@||ytimg.com
+@@||ggpht.com
+@@||geo.yahoo.com
+@@||adservice.google.com
+@@||google.com/adsense
+@@||ads.yahoo.com/
+@@||advertising.yahoo.com
+@@||yahooapis.com
+@@||id.yahoo.com
+@@||doubleclick.net
 ||-=--=-=----=-------zonasegura1viabcp.agsgroupenlineas.com
 ||0000shgfdskjhgfoffice365.000webhostapp.com
 ||000security-center00.000webhostapp.com
@@ -12350,4 +12364,7 @@
 ##[href^="https://www.cpagrip.com/"]
 ##[href^="https://www.filetrkr.com/"]
 ##[href^="https://www.lockredirect.com/"]
-@@||www.youtube.com
+
+
+
+
