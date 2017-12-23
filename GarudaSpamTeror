@@ -1,5 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Garuda Suspicious Spam BL
+
+          --whitelist
 @@||fonts.googleapis.com
 @@||www.youtube.com
 @@||apis.google.com/
@@ -15,6 +17,20 @@
 @@||yahooapis.com
 @@||id.yahoo.com
 @@||doubleclick.net
+@@||secure.bingads.microsoft.com
+@@||bing.net
+@@||advertising.microsoft.com
+@@||pubcenter.microsoft.com
+@@||s-microsoft.com
+@@||aspnetcdn.com
+@@||ads-twitter.com
+@@||wp.com
+@@||advertising.com
+@@||wordpress.com
+@@||wordads.co
+@@||internetdefenseleague.org
+@@||adsrvr.org
+         --blocklist--
 ||-=--=-=----=-------zonasegura1viabcp.agsgroupenlineas.com
 ||0000shgfdskjhgfoffice365.000webhostapp.com
 ||000security-center00.000webhostapp.com
