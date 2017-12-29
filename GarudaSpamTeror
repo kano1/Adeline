@@ -1,9 +1,7 @@
 [Adblock Plus 2.0]
+
 ! Title: Garuda Suspicious Spam BL
 
-          --whitelist
-         
-        ----Spyware----
 /1.exe
 /10.exe
 /100.exe
